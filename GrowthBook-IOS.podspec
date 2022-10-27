@@ -6,7 +6,7 @@ Pod::Spec.new do |spec|
   spec.license                   = 'https://opensource.org/licenses/MIT'
   spec.author                    = { 'KevychSolutions' => 'volodymyr.nazarkevych@kevychsolutions.com' }
   spec.summary                   = 'Powerful A/B testing SDK for Swift - iOS'
-  spec.source                    = { :git => 'https://github.com/vinu-vanjari/growthbook-swift.git', :tag => s.version }
+  spec.source                    = { :git => 'https://github.com/vinu-vanjari/growthbook-swift.git' }
   
   spec.vendored_frameworks       = "build/GrowthBook.xcframework"
 
